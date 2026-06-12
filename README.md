@@ -12,9 +12,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-madhurjya.dev-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Mdhurjya12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhurjya%20Bordoloi-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurjya-bordoloi)
-[![Email](https://img.shields.io/badge/Email-madhurjya@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurjya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neurovia--tech--support.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://neurovia-tech-support.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhurjya%20Bordoloi-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurjya-bordoloi-computech44/)
+[![Email](https://img.shields.io/badge/Email-bordoloimadhurjya34@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordoloimadhurjya34@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mdhurjya12-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mdhurjya12)
 
 <br/>
@@ -184,7 +184,10 @@ Sentient was designed around the principle that AI features should feel native, 
 
 <br/>
 
-**Software Engineering Intern** &nbsp;·&nbsp; *Tech Organization / Research Lab*
+**Software Engineering Intern** &nbsp;·&nbsp; *Neurovia Nexus Pvt Ltd*
+`Jan 2024 – Present`
+
+**B.Sc. Computer Science** &nbsp;·&nbsp; *University of the People*
 `Jan 2024 – Present`
 
 Contributed to production-grade software systems and AI research initiatives within a fast-paced engineering environment, collaborating across cross-functional teams to deliver high-impact features from design to deployment.
@@ -344,10 +347,10 @@ madhurjya_bordoloi:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-madhurjya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurjya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurjya-bordoloi)
+[![Gmail](https://img.shields.io/badge/Gmail-bordoloimadhurjya34@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordoloimadhurjya34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurjya-bordoloi-computech44/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20@Mdhurjya12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mdhurjya12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Mdhurjya12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://neurovia-tech-support.vercel.app)
 
 </div>
 
